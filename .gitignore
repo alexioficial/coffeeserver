@@ -1,0 +1,10 @@
+.env
+__pycache__/
+test/
+data/
+.venv/
+.todo
+notas.txt
+.DS_Store
+templates/
+static/
